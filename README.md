@@ -4,5 +4,5 @@
 
 ## Mis estadisticas son:
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=josechee)].
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=josechee&show_icons=true&theme=radical)
 
