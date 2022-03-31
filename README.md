@@ -1,4 +1,4 @@
-### ¡Hola a todos! Mi nombre es José - [josechee](https://www.linkedin.com/in/josechee/) 👋
+### ¡Hola! Mi nombre es José - [josechee](https://www.linkedin.com/in/josechee/) 👋
 
 ## Soy Desarrollador De Software
 
